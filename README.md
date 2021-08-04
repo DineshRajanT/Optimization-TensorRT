@@ -1,6 +1,6 @@
 # Optimization-TensorRT
 
-- Converted FP32 model to FP16 - compared performance
+- Converted FP32 model to FP16/INT8 - compared performance
 
 - Usually we train the models in FP32, since we get wide range for floating point numbers, as needed for model convergence.
 
