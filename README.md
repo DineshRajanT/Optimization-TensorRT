@@ -8,5 +8,5 @@
 
 - This notebook containes a detailed overview of using TensorRT, model conversion and performance comparison.
 
-NOTE: If u r working on smaller GPUs , then there won't be any drastic diff in the model performance between FP32 and FP16 (although there will be).
+NOTE: If u r working on smaller GPUs , then there won't be any drastic diff in the model performance between FP32 and FP16 (although there will be a neglible difference).
 In case of powerful machine where the hardware has Naive CUDA cores , we can observe the difference in the latency and throughput.
